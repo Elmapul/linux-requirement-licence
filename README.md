@@ -19,4 +19,4 @@ Making sure it work in at least those distros (and all their supported LTS)
 X,Y,Z...
 (eg: ubuntu, mint, fedora)
 
-linux-requirement-licence, does not specify what distros should be supported, those are specified by whorever.
+linux-requirement-licence, does not specify what distros should be supported, those are specified by whorever attached this licence to an software.
