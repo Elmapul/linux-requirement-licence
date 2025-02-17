@@ -4,10 +4,10 @@
 An license for softwares, libraries, games and other things.
 
 this is a licence that is added on top of other licences, it does not replace their terms, just add new conditions for using the software, api, library etc that include it.
-this licence can be incorporated into other licences as part of then (eg: an new version of an mit or gpl licence may include this terms),  or used as an dual-licence/multiple licenced (example, "thos software is licenced under mitt and linux-requirement-licence")
+this licence can be incorporated into other licences as part of then (eg: an new version of an mit or gpl licence may include this terms),  or used as an dual-licence/multiple licenced (example, "this software is licenced under mit and linux-requirement-licence")
 
 here is the specific terms of this licence:
-you have the same rights to use, copy, modify distribute, sublicence or relicence this software that the other licences atached give you, with their respective licences untouched, but you need to fullfil those aditional clause:
+you have the same rights to use, copy, modify distribute, sublicence or relicence this software that the other licences atached give you, with their respective licences untouched, but you need to fullfil those aditional clauses:
 
 your software,api or whatever you are developing that use this licence... must run on linux desktop.
 
